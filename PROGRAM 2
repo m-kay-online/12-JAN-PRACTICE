@@ -1,0 +1,13 @@
+Program 2:
+ Write a C++ program to check whether the sequence of the numbers in a given array is a
+"Arithmetic" or "Geometric" sequence. Return -1
+if the sequenc is not "Arithmetic" or "Geometric".
+
+
+#include <iostream>
+using namspace std;
+
+int main(){
+   
+     
+}

@@ -1,0 +1,30 @@
+Program 1: 
+
+#include <iostream>
+using namespace std;
+
+class calcu{
+
+    public:
+    int x,y;
+
+    void input(){
+        cout<<"\n enter two numbers::\n";
+        cin>>x>>y;
+    }
+    void print(){
+        cout<<"\nSum of two number is :"<<x+y;
+    }
+
+    
+};
+
+
+int main(){
+    
+    calcu calc;
+    calc.input();
+    calc.print();
+    return 0;
+ 
+}
